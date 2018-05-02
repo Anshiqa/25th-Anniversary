@@ -58,7 +58,8 @@ body
     font-family: Avenir;
     font-style: italic;
     color: floralwhite;
-    text-align: center
+    text-align: center;
+    font-size: 15px
 }
 
 #okay 
